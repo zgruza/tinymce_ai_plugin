@@ -4,6 +4,8 @@
 This TinyMCE plugin adds an **AI-powered assistant** to your editor that can modify HTML/CSS content based on user instructions. It integrates with a **Hugging Face proxy server** (`hf-proxy.php`) to send instructions and receive AI-generated HTML/CSS. The plugin shows a preview inside an iframe and lets users apply the generated result to the selected content or the whole document.
 
 ---
+![preview](preview.gif)
+---
 
 ## Project structure
 
