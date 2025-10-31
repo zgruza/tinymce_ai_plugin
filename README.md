@@ -216,7 +216,7 @@ This project is open-source under the **MIT License**. See `LICENSE` for details
 
 ---
 
-## Changelog (short)
+## Changelog
 
 - v1.0 — Initial release: plugin + proxy, preview iframe, selection support, basic logging.
 
