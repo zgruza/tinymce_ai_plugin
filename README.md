@@ -106,7 +106,7 @@ var cssFiles = ['css/bootstrap.min.css', 'css/all.min.css'];
 
 ### 4) Model and payload (server-side)
 
-### 4) Customize the server-side system prompt
+### 5) Customize the server-side system prompt
 
 The proxy (`api/hf-proxy.php`) sets a **system prompt** that tells the AI how to behave. You can change this prompt to better match your workflow, supported frameworks, or coding standards.
 
